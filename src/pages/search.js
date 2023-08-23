@@ -1,6 +1,7 @@
 import React from 'react'
 import { searchList } from "../helpers/searchlist"
 import SearchItem from '../components/searchItem';
+import '../styles/search.css'
 
 function search() {
   return (

@@ -13,6 +13,7 @@ function navbar() {
             <Link to='/'> Home </Link>
             <Link to='/explore'> Explore </Link>
             <Link to='/account'> Account </Link>
+            <Link to='/newRecipe'> Upload </Link>
         </div>
     </div>
   )

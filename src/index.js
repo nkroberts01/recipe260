@@ -3,6 +3,13 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// const express = require('express');
+// const app = express();
+// const recipesRoutes = require('./routes/recipeRoutes');
+
+// app.use(express.json());
+// app.use('/api', recipesRoutes);
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
